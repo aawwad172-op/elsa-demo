@@ -118,3 +118,4 @@ C:\Users\Ahmad-Awwad\coding\elsa-demo\presentaiton\obj\Debug\net8.0\refint\Prese
 C:\Users\Ahmad-Awwad\coding\elsa-demo\presentaiton\obj\Debug\net8.0\Presentation.pdb
 C:\Users\Ahmad-Awwad\coding\elsa-demo\presentaiton\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
 C:\Users\Ahmad-Awwad\coding\elsa-demo\presentaiton\obj\Debug\net8.0\ref\Presentation.dll
+C:\Users\Ahmad-Awwad\coding\elsa-demo\presentaiton\obj\Debug\net8.0\Presentation.sourcelink.json
